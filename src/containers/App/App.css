@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.red {
+  height: 25px;
+  width: 25px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2px;
+}
+
+.orange {
+  height: 25px;
+  width: 25px;
+  background-color: orange;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2px;
+}
+
+.pink {
+  height: 25px;
+  width: 25px;
+  background-color: pink;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2px;
+}
+
+.blue {
+  height: 25px;
+  width: 25px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2px;
+}
+
+.green {
+  height: 25px;
+  width: 25px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2px;
+}
+
+.yellow {
+  height: 25px;
+  width: 25px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2px;
+}
+
+.black {
+  height: 25px;
+  width: 25px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2px;
+}
+
+.white {
+  height: 25px;
+  width: 25px;
+  background-color: lightgray;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2px;
+}

@@ -1,8 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+##Installation
+
+### `npm install`
+
+Run this in the root directory
+
+###Features:<br />
+Playable Mastermind Game<br />
+Browser Refresh<br />
+Customizable number of guesses<br />
+Customizable length of code<br />
+
+***I show the answer in the code in the UI
+
+## Available Scripts
 
 ### `npm start`
 
